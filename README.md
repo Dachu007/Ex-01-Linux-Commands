@@ -225,6 +225,20 @@ Syntax: find.-name”*.pdf”
 
 
 
+### Output:
+
+ <img width="1920" height="1200" alt="Screenshot 2025-08-28 112913" src="https://github.com/user-attachments/assets/86e15f6a-a150-44ec-a9d5-ffa38f99f65e" />
+
+ <img width="1920" height="1200" alt="Screenshot 2025-08-28 113142" src="https://github.com/user-attachments/assets/41718c38-36ed-4a49-82ed-3cd37a409fc0" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-28 113154" src="https://github.com/user-attachments/assets/d80ccfa8-6e68-44c2-a645-a2936df16f48" />
+
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-28 113334" src="https://github.com/user-attachments/assets/a947bfba-2cb2-498f-8df0-0a2cb15887af" />
+
+<img width="1916" height="1195" alt="Screenshot 2025-08-28 113444" src="https://github.com/user-attachments/assets/61fc4e39-0ef1-441c-bc80-1d95e4273792" />
+
+
 
 
 
